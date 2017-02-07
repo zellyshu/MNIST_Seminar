@@ -11,6 +11,15 @@ Welcome to 01 MNIST Seminar
 관련 내용
 -------------
 
+Default <br>
+-------------
+<img src="https://github.com/zellyshu/MNIST_Seminar/blob/master/Chap04/images/01.png" width="70%">
+
+디렉토리 설정 <br>
+-----------------
+
+<img src="https://github.com/zellyshu/MNIST_Seminar/blob/master/Chap04/images/02.png" widt="120">
+
 
 
   [1]: https://www.tensorflow.org/tutorials/
