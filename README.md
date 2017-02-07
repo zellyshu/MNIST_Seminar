@@ -10,3 +10,9 @@ Welcome to 01 MNIST Seminar
 
 관련 내용
 -------------
+
+
+
+  [1]: https://www.tensorflow.org/tutorials/
+  [2]: https://www.tensorflow.org/tutorials/mnist/beginners/
+  [3]: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_softmax.py
